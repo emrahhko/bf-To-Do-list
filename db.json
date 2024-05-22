@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "2c4c",
+      "title": "Finish the project",
+      "completed": true
+    },
+    {
+      "id": "e9b2",
+      "title": "Create a deliverable issue",
+      "completed": true
+    },
+    {
+      "id": "d2e6",
+      "title": "min 10 K steps",
+      "completed": false
+    }
+  ]
+}
